@@ -18,7 +18,7 @@ This project is inspired by the guidance provided on the Tech Classes YouTube ch
 * SciPy (hypothesis testing)
 
 ## Dataset
-We used a subset of the NYC Yellow Taxi Trip records, focusing on relevant features such as:
+We used a subset of the NYC Yellow Taxi Trip (https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) records, focusing on relevant features such as:
 
 * passenger_count
 
